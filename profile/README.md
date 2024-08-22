@@ -1,4 +1,4 @@
-# 14bytes.com
+# 14bits.info
 
 > 让代码像十四行诗一样优雅
 
